@@ -8,6 +8,7 @@ class MySpringBootTestApplicationTests {
 
 	@Test
 	void contextLoads() {
+		//assertEquals(true,true);
 	}
 
 }
